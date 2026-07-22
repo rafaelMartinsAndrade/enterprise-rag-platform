@@ -1,4 +1,4 @@
-# T31 Enterprise RAG Platform
+# Enterprise RAG Platform
 
 Multi-tenant enterprise RAG demo. FastAPI API, Celery ingestion, PostgreSQL plus pgvector retrieval, Streamlit UI, grounded answers with citations.
 
@@ -6,9 +6,9 @@ Multi-tenant enterprise RAG demo. FastAPI API, Celery ingestion, PostgreSQL plus
 
 Steps covered in this repo:
 
-- `T31` to `T33`: business problem, architecture, tenant model
-- `T34` to `T50`: ingestion, extraction, chunking, embeddings, retrieval, answer generation, citations, history, versioning, reprocessing, hybrid search, reranking
-- `T51` to `T56`: tests, UI, demo data, architecture artifact, demo video script, publish pack
+- business problem, architecture, tenant model
+- ingestion, extraction, chunking, embeddings, retrieval, answer generation, citations, history, versioning, reprocessing, hybrid search, reranking
+- tests, UI, demo data, architecture artifact, demo video script, publish pack
 
 ## Business Problem
 
