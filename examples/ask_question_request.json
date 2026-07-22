@@ -1,0 +1,6 @@
+{
+  "question": "Who approves refunds above 1000 BRL?",
+  "retrieval_mode": "hybrid",
+  "top_k": 5,
+  "similarity_threshold": 0.2
+}
